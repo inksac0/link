@@ -1,7 +1,7 @@
 /* ===== Demo Credentials ===== */
-const USERNAME = "Mechandoz360";
-const PASSWORD = "iamnotokbutitsfin";
-const VERIFICATION_CODE = "499808";
+const USERNAME = "gamer";
+const PASSWORD = "/gamemode";
+const VERIFICATION_CODE = "258808";
 
 /* Show login every refresh */
 window.onload = () => {
